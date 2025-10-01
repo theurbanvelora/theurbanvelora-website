@@ -2,6 +2,9 @@
 
 A modern, responsive e-commerce website inspired by The Souled Store, featuring a clean design and smooth user experience.
 
+## 🌐 Live Website
+**Visit the live site:** [https://theurbanvelora.github.io/theurbanvelora-website/](https://theurbanvelora.github.io/theurbanvelora-website/)
+
 ## Features
 
 - **Responsive Design**: Works seamlessly on desktop, tablet, and mobile devices
@@ -108,6 +111,5 @@ This project is open source and available for educational purposes.
 
 ## Credits
 
-Design inspired by The Souled Store
+Design inspired by The Souled Store  
 Created for The Urban Velora brand
-# theurbanvelora-website
